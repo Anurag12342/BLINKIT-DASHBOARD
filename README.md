@@ -97,12 +97,5 @@ This project showcases a comprehensive Power BI dashboard for analyzing Blinkit'
 1. Saved the Power BI file (.pbix).
 2. Published the dashboard to the Power BI service for sharing and collaboration.
 
-## Setup Instructions
-
-1. Clone this repository to your local machine.
-2. Open the Power BI file (`Blinkit_Sales_Dashboard.pbix`) using Power BI Desktop.
-3. Ensure the data files (CSV) are placed in the correct path.
-4. Refresh the data in Power BI to load the latest information.
-5. Explore the dashboard and interact with the visualizations and filters.
 
 
