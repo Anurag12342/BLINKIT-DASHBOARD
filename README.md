@@ -3,7 +3,6 @@
 
 
 # Blinkit Sales Dashboard
-## Project link: 
 ## Project Overview
 
 This project showcases a comprehensive Power BI dashboard for analyzing Blinkit's sales data, average sales, number of items, average ratings, and more. The dashboard provides valuable insights into various metrics and helps in making data-driven decisions.
